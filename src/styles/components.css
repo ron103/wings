@@ -1,0 +1,1067 @@
+/* Base Styles (for large screens and default) */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #0044cc;
+  cursor: pointer;
+}
+.navbar-menu {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.navbar-item {
+  position: relative;
+  font-size: 1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: #333;
+}
+.navbar-item:hover .dropdown {
+  display: block;
+}
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 28px;
+  left: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  min-width: 150px;
+  z-index: 9999;
+}
+.dropdown-item {
+  padding: 10px;
+  font-size: 0.9rem;
+  color: #333;
+}
+.dropdown-item:hover {
+  background: #f2f2f2;
+}
+.navbar-cta {
+  background: #ff6600;
+  padding: 8px 14px;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: 700;
+  transition: background 0.3s;
+}
+.navbar-cta:hover {
+  background: #e65c00;
+}
+.navbar-phone {
+  font-weight: bold;
+  color: #0044cc;
+}
+
+/* HeroBanner */
+.hero {
+  background: linear-gradient(135deg, #0044cc 30%, #0066ee 70%);
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+  padding: 0 20px;
+  
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  max-width: 700px;
+}
+.hero-p {
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  max-width: 600px;
+}
+.hero-tiles {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+@media (max-width: 1439px) {
+  .hero-tiles {
+    display: none; /* Hide tiles on screens less than 1440px width */
+  }
+
+}
+.hero-tile {
+  background: #fff;
+  color: #000;
+  padding: 20px;
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.spacer{
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../assets/misc/poly3.svg');
+}
+.hero-tile h4 {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.hero-tile:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+
+/* PartnerLogosSlider */
+.partner-logos {
+  overflow: hidden;
+  width: 100%;
+  background: #f9f9f9;
+  padding: 20px 0;
+}
+.partner-slider {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  animation: slide 20s linear infinite;
+  padding: 0 20px;
+}
+.partner-slider img {
+  height: 50px;
+  object-fit: contain;
+}
+@keyframes slide {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* StudyDestinations */
+.study-destinations {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+.destinations-list {
+  flex: 1;
+}
+.destinations-list-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  font-weight: 600;
+  color: #333;
+}
+.destinations-list-item img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.destinations-images {
+  flex: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.destinations-image-container {
+  position: relative;
+  width: calc(50% - 20px); /* Ensures two images per row */
+  aspect-ratio: 16 / 9; /* Maintains a consistent aspect ratio */
+  overflow: hidden;
+  border-radius: 8px;
+  background-color: #f0f0f0; /* Optional: Add a background color for better visuals */
+  cursor: 'pointer';
+}
+
+.destinations-image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image fills the container without distortion */
+  transition: transform 0.3s ease-in-out;
+  border: 2px solid #eee;
+}
+.destinations-image-container:hover img {
+  transform: scale(1.05);
+}
+.destinations-image-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Semi-transparent background for readability */
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1.2rem; /* Adjust font size as needed */
+}
+
+/* PopularCourses */
+.popular-courses {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  margin-top: 40px;
+}
+.course-card {
+  background: #f2f8ff;
+  padding: 30px 20px;
+  border-radius: 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: box-shadow 0.3s;
+  font-weight: 600;
+}
+.course-card img {
+  width: 60px;
+  margin-bottom: 10px;
+}
+.course-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* ServicesGrid */
+.services-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.service-card {
+  background: #fff;
+  border: 1px solid #eee;
+  flex: 1 1 calc(25% - 20px);
+  min-width: 200px;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 600;
+  transition: box-shadow 0.3s;
+}
+.service-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* CTAForm */
+.cta-section {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 60px;
+  background: linear-gradient(120deg, #f9fcff 0%, #e9f0ff 100%);
+  padding: 60px 20px;
+  border-radius: 8px;
+}
+.cta-form-container {
+  flex: 1;
+}
+.cta-form-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.cta-form-container input, .cta-form-container select {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.cta-form-container button {
+  background: #0044cc;
+  color: #fff;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  transition: background 0.3s;
+}
+.cta-form-container button:hover {
+  background: #003bb3;
+}
+.cta-image-container {
+  flex: 1;
+  text-align: center;
+}
+
+/* Testimonials */
+.testimonials-carousel {
+  position: relative;
+  overflow: hidden;
+  margin-top: 40px;
+}
+.testimonial-slide {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  transition: transform 0.5s ease;
+}
+.testimonial-slide > div {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  background: #f2f8ff;
+  padding: 20px;
+  border-radius: 8px;
+}
+.testimonial-slide p {
+  margin: 0;
+  font-size: 1rem;
+  color: #333;
+  max-width: 400px;
+  line-height: 1.4;
+  font-weight: 400;
+}
+.testimonial-dots {
+  text-align: center;
+  margin-top: 20px;
+}
+.testimonial-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: #ccc;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.testimonial-dot.active {
+  background: #0044cc;
+}
+
+/* AnimatedCounters */
+.counters {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  text-align: center;
+  margin-top: 60px;
+}
+.counter-item {
+  flex: 1;
+}
+.counter-number {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #0044cc;
+  margin-bottom: 10px;
+}
+.counter-label {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Footer */
+.footer {
+  background: #0044cc;
+  color: #fff;
+  padding: 40px 20px;
+}
+.footer-content {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+.footer-links, .footer-contact {
+  flex: 1;
+}
+.footer-links h4, .footer-contact h4 {
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+.footer-links a, .footer-contact a {
+  display: block;
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.footer-links a:hover, .footer-contact a:hover {
+  text-decoration: underline;
+}
+.footer-contact p {
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.footer-social {
+  text-align: right;
+  display: flex;
+  flex: 1;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.footer-social a {
+  margin-left: 10px;
+  color: #fff;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+.footer-social a:hover {
+  color: #ff6600;
+}
+
+/* Responsive Breakpoints */
+
+/* Large monitors: Keep as is or adjust container widths if needed */
+/* Example: max-width container (already managed in global styles) */
+
+/* For screens <= 1200px */
+@media (max-width: 1200px) {
+  .navbar-menu {
+    gap: 20px;
+  }
+  .hero-title {
+    font-size: 2.5rem;
+  }
+  .hero-p {
+    font-size: 0.95rem;
+  }
+}
+
+
+
+/* For screens <= 992px (typical tablet landscape) */
+@media (max-width: 992px) {
+  .navbar-menu {
+    gap: 15px;
+  }
+  .study-destinations {
+    flex-direction: column;
+  }
+  .destinations-images {
+    width: 100%;
+    gap: 10px;
+  }
+  .destinations-image-container {
+    width: calc(50% - 10px);
+
+  }
+  .cta-section {
+    flex-direction: column;
+  }
+  .cta-image-container {
+    margin-top: 20px;
+  }
+  .services-grid {
+    flex-wrap: wrap;
+  }
+}
+
+/* For screens <= 768px (typical tablet portrait) */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    padding: 10px;
+  }
+  .navbar-menu {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .navbar-item {
+    font-size: 0.9rem;
+  }
+  .hero-title {
+    font-size: 2rem;
+  }
+  .hero-tile {
+    width: 100px;
+  }
+  .destinations-image-container {
+    width: calc(50% - 10px);
+  }
+  .services-grid {
+    gap: 15px;
+  }
+  .service-card {
+    flex: 1 1 calc(50% - 15px);
+  }
+  .popular-courses {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  .counters {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .counter-number {
+    font-size: 2.5rem;
+  }
+}
+
+/* For screens <= 576px (typical mobile phones) */
+@media (max-width: 576px) {
+  .navbar-menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .hero {
+    padding: 20px;
+    height: auto;
+  }
+  .hero-title {
+    font-size: 1.5rem;
+  }
+  .hero-p{
+    font-size: 0.8rem;
+  }
+  .hero-tile {
+    width: 100%;
+    max-width: 100px;
+    max-height: 150px;
+  }
+  .study-destinations {
+    gap: 20px;
+  }
+  .destinations-image-container {
+    width: 100%;
+  }
+  .services-grid {
+    flex-direction: column;
+  }
+  .service-card {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+  .cta-section {
+    padding: 20px;
+  }
+  .testimonial-slide > div {
+    flex-direction: column;
+  }
+  .footer-content {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .footer-social {
+    justify-content: flex-start;
+    text-align: left;
+  }
+}
+
+/* Updated Styles for ServicesComparisonPage */
+
+/* Page Container */
+.services-comparison-page {
+  text-align: center;
+  background: linear-gradient(120deg, #f9fcff 0%, #e9f0ff 100%);
+  padding: 60px 20px;
+  border-radius: 8px;
+}
+
+.services-comparison-page .section-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #0044cc;
+  margin-bottom: 20px;
+}
+
+.services-comparison-page .section-subtitle {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+/* Diamond Grid */
+.diamond-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.diamond-tile {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  perspective: 1000px;
+  transform: rotate(45deg);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.diamond-tile:hover {
+  transform: rotate(45deg) scale(1.05);
+}
+
+.diamond-content-front,
+.diamond-content-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(-45deg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  padding: 10px;
+  backface-visibility: hidden;
+  border-radius: 8px;
+}
+
+/* Front side */
+.diamond-content-front {
+  background: #0044cc;
+  color: #fff;
+  font-weight: 600;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.blue-tile .diamond-content-front {
+  background: linear-gradient(135deg, #0044cc 0%, #002d87 100%);
+}
+
+.yellow-tile .diamond-content-front {
+  background: linear-gradient(135deg, #cddeff 0%, #7dabff 100%);
+  color: #0044cc;
+}
+
+.diamond-icon {
+  font-size: 1rem;
+  margin-bottom: 2px;
+}
+
+.diamond-content-front h4 {
+  font-size: 0.9rem;
+}
+
+/* Back side */
+.diamond-content-back {
+  background: #ffffff;
+  color: #333;
+  transform: rotate(-45deg) rotateY(180deg);
+  border: 1px solid #ddd;
+  transition: transform 0.5s;
+  font-size: 0.85rem;
+  line-height: 1.3;
+  border-radius: 8px;
+}
+
+/* Flip effect on hover */
+.diamond-tile:hover .diamond-content-front {
+  transform: rotate(-45deg) rotateY(180deg);
+}
+
+.diamond-tile:hover .diamond-content-back {
+  transform: rotate(-45deg) rotateY(0deg);
+}
+
+/* Comparison Table */
+.comparison-table-wrapper {
+  margin-top: 40px;
+  overflow-x: auto;
+  padding: 0 10px;
+}
+
+.comparison-table {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 14px;
+  font-size: 1rem;
+  text-align: left;
+  color: #333;
+  white-space: nowrap;
+}
+
+.comparison-table thead th {
+  background: #f0f4ff;
+  font-weight: 700;
+  color: #0044cc;
+}
+
+.comparison-table tbody tr:nth-child(even) {
+  background: #f9faff;
+}
+
+.comparison-table tbody tr:hover {
+  background: #e6f0ff;
+}
+
+.comparison-table td:first-child {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .diamond-grid {
+    gap: 20px;
+  }
+  .diamond-tile {
+    width: 90px;
+    height: 90px;
+  }
+  .diamond-content-front h4 {
+    font-size: 0.8rem;
+  }
+  .diamond-icon {
+    font-size: 1.2rem;
+  }
+
+  .services-comparison-page .section-title {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .diamond-tile {
+    width: 80px;
+    height: 80px;
+  }
+  .diamond-content-front h4,
+  .diamond-content-back p {
+    font-size: 0.7rem;
+  }
+
+  .services-comparison-page .section-title {
+    font-size: 1.8rem;
+  }
+  .comparison-table th,
+  .comparison-table td {
+    font-size: 0.9rem;
+  }
+}
+
+/* About Us Page Styles */
+.about-us-page {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.about-description {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 20px 0 40px;
+  color: #333;
+}
+.cta-button {
+  background: #ffcc00;
+  padding: 12px 20px;
+  color: #0044cc;
+  font-weight: 700;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+.cta-button:hover {
+  background: #e6b800;
+}
+
+/* Benefits Page Styles */
+.benefits-abroad-page {
+  text-align: center;
+}
+.benefits-grid {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 20px;
+  margin-top: 40px;
+
+  text-align: center;
+}
+.benefit-card {
+  background: #ffffff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 20px;
+}
+.benefit-icon {
+  font-size: 2rem;
+  margin-bottom: 5px;
+  color: #0044cc;
+}
+.benefit-card h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.benefit-card p {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+/* Responsive Adjustments for New Pages */
+
+/* For screens <= 992px (Tablets) */
+@media (max-width: 992px) {
+  .diamond-grid {
+    gap: 20px;
+  }
+  
+  .benefits-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* For screens <= 768px */
+@media (max-width: 768px) {
+  .diamond-tile {
+    width: 100px;
+    height: 100px;
+  }
+  .diamond-content-front h4 {
+    font-size: 0.7rem;
+  }
+  .benefits-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .benefit-card {
+    padding: 15px;
+  }
+  .benefit-card p {
+    font-size: 0.9rem;
+  }
+}
+
+/* For screens <= 576px (Mobile) */
+@media (max-width: 576px) {
+  .benefits-grid {
+    grid-template-columns: 1fr;
+  }
+  .comparison-table td,
+  .comparison-table th {
+    font-size: 0.9rem;
+  }
+  .about-description {
+    font-size: 0.9rem;
+  }
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  .diamond-tile {
+    width: 100px;
+    height: 100px;
+  }
+  .diamond-content-front h4 {
+    font-size: 0.7rem;
+  }
+  .diamond-icon {
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: -1px;
+  }
+  .benefit-card h4 {
+    font-size: 1rem;
+  }
+}
+
+
+/* Belarus Page Styles */
+
+.belarus-page {
+  font-family: 'Montserrat', sans-serif;
+  color: #333;
+}
+
+/* Hero Section */
+.belarus-hero {
+  position: relative;
+  height: 60vh;
+  background: linear-gradient(135deg, #0044cc 30%, #0066ee 70%);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-image: url('../assets/landmarks/belarusl.jpg'); /* Ensure correct path */
+  background-size: cover;
+  background-position: center;
+}
+
+.belarus-hero-overlay {
+  width: 100%;
+  background: rgba(0,0,0,0.4);
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.belarus-hero-overlay h1 {
+  font-size: 3rem;
+  color: #fff;
+  font-weight: 800;
+  margin: 0;
+}
+
+/* Content Container */
+.belarus-content.container {
+  background: #ffffff;
+  margin-top: -40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  padding: 40px 20px;
+}
+
+.belarus-content .intro-text {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 40px;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+.belarus-content .section-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #0044cc;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.belarus-content .section-subtitle {
+  font-size: 1rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.benefits-list {
+  list-style: none;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto 60px;
+}
+
+.benefits-list li {
+  padding: 10px 0;
+  font-size: 1rem;
+  line-height: 1.4;
+  border-bottom: 1px solid #eee;
+}
+
+/* Universities Accordion */
+.universities-accordion {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.university-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background: #f9f9f9;
+  transition: box-shadow 0.3s;
+}
+
+.university-item:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.university-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.university-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #0044cc;
+}
+
+.chevron {
+  font-size: 1rem;
+  transition: transform 0.3s;
+}
+
+.chevron.rotated {
+  transform: rotate(180deg);
+}
+
+/* Fee Table */
+.fee-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.fee-table th,
+.fee-table td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.fee-table thead th {
+  background: #f0f4ff;
+  color: #0044cc;
+  font-weight: 700;
+}
+
+.fee-table tbody tr:nth-child(even) {
+  background: #f9faff;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .belarus-hero-overlay h1 {
+    font-size: 2rem;
+  }
+  .belarus-content .section-title {
+    font-size: 1.8rem;
+  }
+  .university-header h3 {
+    font-size: 1.1rem;
+  }
+}
+@media (max-width: 576px) {
+  .belarus-hero-overlay h1 {
+    font-size: 1.8rem;
+  }
+  .belarus-content .intro-text {
+    font-size: 0.95rem;
+    margin: 20px auto;
+  }
+  .university-header h3 {
+    font-size: 1rem;
+  }
+  .fee-table th, .fee-table td {
+    font-size: 0.85rem;
+  }
+}
