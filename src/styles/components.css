@@ -9,6 +9,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
+  transition: transform 0.3s ease-in-out;
 }
 .navbar-logo {
   font-size: 1.5rem;
@@ -1064,4 +1065,14 @@
   .fee-table th, .fee-table td {
     font-size: 0.85rem;
   }
+}
+
+
+
+.navbar.hidden {
+  transform: translateY(-100%);
+}
+
+.navbar.visible {
+  transform: translateY(0);
 }

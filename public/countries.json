@@ -623,34 +623,7 @@
       ]
     },
     
-      "uk": {
-        "heroImage": "ukl.jpg",
-        "title": "Study in the United Kingdom",
-        "introText": "The United Kingdom is a global leader in higher education, offering diverse programs, world-renowned universities, and an enriching cultural experience. Whether pursuing MS or MBA, the UK provides students with endless opportunities for academic and personal growth.",
-        "benefitsTitle": "Why Study in the United Kingdom?",
-        "benefits": [
-          "Access to globally recognized universities and high-quality education.",
-          "Strong focus on research and innovation across multiple fields.",
-          "Opportunities for scholarships and work-study programs.",
-          "Diverse cultural exposure and networking with international peers.",
-          "English is the primary medium of instruction for ease of study."
-        ],
-        "universitiesTitle": "Universities & Fee Structure",
-    "universitiesSubtitle": "Contact us for more information.",
-    "universities": [
-      {
-        "name": "",
-        "fees": [
-          { "year": "1st Year", "inr": "", "usd": "" },
-          { "year": "2nd Year", "inr": "", "usd": "" },
-          { "year": "3rd Year", "inr": "", "usd": "" },
-          { "year": "4th Year", "inr": "", "usd": "" },
-          { "year": "5th Year", "inr": "", "usd": "" },
-          { "year": "Full Price", "inr": "", "usd": "" }
-        ]
-      }
-    ]
-      },
+
       "armenia": {
         "heroImage": "armenial.jpg",
         "title": "Study in Armenia",
@@ -678,6 +651,46 @@
         ]
       }
     ]
+      },
+      "uk": {
+        "heroImage": "ukl.jpg",
+        "title": "Study in the United Kingdom",
+        "introText": "The United Kingdom is a global leader in higher education, offering diverse programs, world-renowned universities, and an enriching cultural experience. Whether pursuing MS or MBA, the UK provides students with endless opportunities for academic and personal growth.",
+        "benefitsTitle": "Why Study in the United Kingdom?",
+        "benefits": [
+          "Access to globally recognized universities and high-quality education.",
+          "Strong focus on research and innovation across multiple fields.",
+          "Opportunities for scholarships and work-study programs.",
+          "Diverse cultural exposure and networking with international peers.",
+          "English is the primary medium of instruction for ease of study."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "St. Tereza Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+          { "year": "2nd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "3rd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "4th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "5th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "Full Price", "inr": "INR 1386000.00", "usd": "$19800.00" }
+        ]
+      },
+      {
+        "name": "Yerevan State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "2nd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "3rd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "Full Price", "inr": "INR 1050000.00", "usd": "$15000.00" }
+        ]
+      }
+    ]
+
       },
       "india": {
         "heroImage": "indial.jpg",

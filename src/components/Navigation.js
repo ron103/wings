@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { FiChevronDown } from 'react-icons/fi';
 import { useNavigate } from 'react-router-dom';
 
 function Navigation({ onMBBSClick }) {
   const [showDestinations, setShowDestinations] = useState(false);
+  const [isVisible, setIsVisible] = useState(true);
+  const [lastScrollY, setLastScrollY] = useState(0);
 
   const navigate = useNavigate();
 
@@ -11,9 +13,33 @@ function Navigation({ onMBBSClick }) {
     navigate(`/country/${country.toLowerCase()}`);
   };
 
+  const handleScroll = () => {
+    const currentScrollY = window.scrollY;
+
+    if (currentScrollY > lastScrollY && currentScrollY > 50) {
+      // Scrolling down
+      setIsVisible(false);
+    } else {
+      // Scrolling up
+      setIsVisible(true);
+    }
+
+    setLastScrollY(currentScrollY);
+  };
+
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [lastScrollY]);
+
   return (
-    <div className="navbar">
-      <div className="navbar-logo" onClick={() => navigate('/')}>Wings International</div>
+    <div className={`navbar ${isVisible ? 'visible' : 'hidden'}`}>
+      <div className="navbar-logo" onClick={() => navigate('/')}>
+        Wings International
+      </div>
       <div className="navbar-menu">
         <div
           className="navbar-item"
