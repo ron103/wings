@@ -639,34 +639,7 @@
         "universitiesTitle": "Universities & Fee Structure",
     "universitiesSubtitle": "Contact us for more information.",
     "universities": [
-      {
-        "name": "",
-        "fees": [
-          { "year": "1st Year", "inr": "", "usd": "" },
-          { "year": "2nd Year", "inr": "", "usd": "" },
-          { "year": "3rd Year", "inr": "", "usd": "" },
-          { "year": "4th Year", "inr": "", "usd": "" },
-          { "year": "5th Year", "inr": "", "usd": "" },
-          { "year": "Full Price", "inr": "", "usd": "" }
-        ]
-      }
-    ]
-      },
-      "uk": {
-        "heroImage": "ukl.jpg",
-        "title": "Study in the United Kingdom",
-        "introText": "The United Kingdom is a global leader in higher education, offering diverse programs, world-renowned universities, and an enriching cultural experience. Whether pursuing MS or MBA, the UK provides students with endless opportunities for academic and personal growth.",
-        "benefitsTitle": "Why Study in the United Kingdom?",
-        "benefits": [
-          "Access to globally recognized universities and high-quality education.",
-          "Strong focus on research and innovation across multiple fields.",
-          "Opportunities for scholarships and work-study programs.",
-          "Diverse cultural exposure and networking with international peers.",
-          "English is the primary medium of instruction for ease of study."
-        ],
-        "universitiesTitle": "Universities & Fee Structure",
-    "universitiesSubtitle": "Contact us for more information.",
-    "universities": [
+      
       {
         "name": "St. Tereza Medical University",
         "fees": [
@@ -687,6 +660,35 @@
           { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
           { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
           { "year": "Full Price", "inr": "INR 1050000.00", "usd": "$15000.00" }
+        ]
+      }
+
+    ]
+      },
+      "uk": {
+        "heroImage": "ukl.jpg",
+        "title": "Study in the United Kingdom",
+        "introText": "The United Kingdom is a global leader in higher education, offering diverse programs, world-renowned universities, and an enriching cultural experience. Whether pursuing MS or MBA, the UK provides students with endless opportunities for academic and personal growth.",
+        "benefitsTitle": "Why Study in the United Kingdom?",
+        "benefits": [
+          "Access to globally recognized universities and high-quality education.",
+          "Strong focus on research and innovation across multiple fields.",
+          "Opportunities for scholarships and work-study programs.",
+          "Diverse cultural exposure and networking with international peers.",
+          "English is the primary medium of instruction for ease of study."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
         ]
       }
     ]
@@ -915,5 +917,61 @@
         ]
       }
     ]
+      },
+      "japan": {
+        "heroImage": "japanl.jpg",
+        "title": "Study in Japan",
+        "introText": "Japan is renowned for its advanced technology, rich cultural heritage, and world-class education. With its focus on research, innovation, and a thriving job market, Japan offers excellent opportunities for international students.",
+        "benefitsTitle": "Why Study in Japan?",
+        "benefits": [
+          "High-quality education with a focus on technology and innovation.",
+          "Opportunities to learn and work in a thriving economy.",
+          "Rich cultural experience and globally recognized degrees.",
+          "Scholarships available for international students.",
+          "Safe and welcoming environment with modern infrastructure."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+        "universitiesSubtitle": "Contact us for more information.",
+        "universities": [
+          {
+            "name": "",
+            "fees": [
+              { "year": "1st Year", "inr": "", "usd": "" },
+              { "year": "2nd Year", "inr": "", "usd": "" },
+              { "year": "3rd Year", "inr": "", "usd": "" },
+              { "year": "4th Year", "inr": "", "usd": "" },
+              { "year": "5th Year", "inr": "", "usd": "" },
+              { "year": "Full Price", "inr": "", "usd": "" }
+            ]
+          }
+        ]
+      },
+      "korea": {
+        "heroImage": "koreal.jpg",
+        "title": "Study in South Korea",
+        "introText": "South Korea is a leader in technology, innovation, and modern education. Known for its strong academic reputation and career opportunities, South Korea provides an ideal environment for international students.",
+        "benefitsTitle": "Why Study in South Korea?",
+        "benefits": [
+          "Globally recognized universities with modern facilities.",
+          "Focus on technology, healthcare, and management education.",
+          "Scholarships available for international students.",
+          "Dynamic and vibrant cultural experience.",
+          "Strong job market and career opportunities post-graduation."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+        "universitiesSubtitle": "Contact us for more information.",
+        "universities": [
+          {
+            "name": "",
+            "fees": [
+              { "year": "1st Year", "inr": "", "usd": "" },
+              { "year": "2nd Year", "inr": "", "usd": "" },
+              { "year": "3rd Year", "inr": "", "usd": "" },
+              { "year": "4th Year", "inr": "", "usd": "" },
+              { "year": "5th Year", "inr": "", "usd": "" },
+              { "year": "Full Price", "inr": "", "usd": "" }
+            ]
+          }
+        ]
       }
     }
