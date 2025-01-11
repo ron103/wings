@@ -70,6 +70,9 @@ function Navigation({ onMBBSClick }) {
             </div>
           )}
         </div>
+        <div className="navbar-item" onClick={() => navigate('/gallery')}>
+          Gallery
+        </div>
         <div className="navbar-item navbar-cta" onClick={onMBBSClick}>MBBS In Abroad</div>
         <div className="navbar-item navbar-phone">+91 9922755575</div>
       </div>

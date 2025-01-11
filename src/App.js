@@ -46,7 +46,6 @@ function App() {
                   <StudyDestinations />
                 </div>
                 <AboutMe onCTAClick={scrollToCTA} />
-                <GalleryPage />
                 <div ref={ctaRef}>
                   <CTAForm />
                 </div>
@@ -57,6 +56,7 @@ function App() {
             </>
           }
         />
+        <Route path="/gallery" element={<GalleryPage />} />
         <Route path="/country/:country" element={<CountryPage />} />
       </Routes>
     </>
