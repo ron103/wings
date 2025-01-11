@@ -13,6 +13,8 @@ import AboutUsPage from './components/AboutUsPage';
 import ServicesComparisonPage from './components/ServicesComparisonPage';
 import BenefitsAbroadPage from './components/BenefitsAbroadPage';
 import CountryPage from './components/CountryPage';
+import AboutMe from './components/AboutMe';
+import GalleryPage from './components/GalleryPage';
 
 function App() {
   const ctaRef = useRef(null); // Ref for CTAForm
@@ -37,11 +39,14 @@ function App() {
               <HeroBanner />
               <div className="container">
                 <AboutUsPage onCTAClick={scrollToCTA} />
+
                 <BenefitsAbroadPage />
                 <ServicesComparisonPage />
                 <div ref={studyDestinationsRef}>
                   <StudyDestinations />
                 </div>
+                <AboutMe onCTAClick={scrollToCTA} />
+                <GalleryPage />
                 <div ref={ctaRef}>
                   <CTAForm />
                 </div>
