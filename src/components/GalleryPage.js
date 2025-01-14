@@ -10,6 +10,11 @@ import i7 from '../assets/gallery/i7.JPG';
 import i8 from '../assets/gallery/i8.JPG';
 import i9 from '../assets/gallery/i9.JPG';
 import i10 from '../assets/gallery/i10.JPG';
+import i11 from '../assets/gallery/i11.JPG';
+import i12 from '../assets/gallery/i12.JPG';
+import i13 from '../assets/gallery/i13.JPG';
+import i14 from '../assets/gallery/i14.JPG';
+import i15 from '../assets/gallery/i15.JPG';
 import p1 from '../assets/gallery/p1.jpg';
 import p2 from '../assets/gallery/p2.jpg';
 import p3 from '../assets/gallery/p3.jpg';
@@ -40,6 +45,11 @@ const galleryItems = [
   { type: 'image', src: i10, alt: 'Landscape Image 10' },
   { type: 'image', src: p8, alt: 'PDF Document 8' },
   { type: 'image', src: p9, alt: 'PDF Document 9' },
+  { type: 'image', src: i11, alt: 'Landscape Image 11' },
+  { type: 'image', src: i12, alt: 'Landscape Image 12' },
+  { type: 'image', src: i13, alt: 'Landscape Image 13' },
+  { type: 'image', src: i14, alt: 'Landscape Image 14' },
+  { type: 'image', src: i15, alt: 'Landscape Image 15' },
 ];
 
 function GalleryPage() {
