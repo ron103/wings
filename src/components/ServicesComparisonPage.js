@@ -19,7 +19,7 @@ function ServicesComparisonPage() {
 
   const mbbsComparison = [
     { parameter: 'Total Course Duration', india: '5.5 years', abroad: '6 years' },
-    { parameter: 'Tuition/College Fees', india: '₹65L–₹90L total', abroad: '₹13.5L–₹18L/year' },
+    { parameter: 'Tuition/College Fees', india: '₹65L–₹90L total', abroad: '₹13.5L–₹18L total' },
     { parameter: 'Food & Accommodation', india: '₹10K–₹15K/month', abroad: '₹12K–₹15K/month' },
     { parameter: 'Hospital for Internship/Clerkship', india: 'Available', abroad: 'Available' },
     { parameter: 'Medium of Teaching', india: 'English', abroad: 'English' },
