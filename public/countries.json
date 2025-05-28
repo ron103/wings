@@ -740,13 +740,13 @@
       {
         "name": "University of East Sarajevo",
         "fees": [
-          { "year": "1st Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "2nd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "3rd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "6th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
-          { "year": "Full Price", "inr": "INR 1260000.00", "usd": "$18000" }
+          { "year": "1st Year", "inr": "INR 880000.00", "usd": "$9815.00" },
+          { "year": "2nd Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "3rd Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "4th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "5th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "6th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "Full Price", "inr": "INR 3880000.00", "usd": "$42815" }
         ]
       }
     ]
