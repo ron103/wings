@@ -9,8 +9,8 @@ function Footer() {
         <div className="footer-contact">
           <h4>Contact</h4>
           <p>Wings International, Shree Ganesh Galaxy, Alandi Rd, Wadmukhwadi, Charholi Budruk, Pune 412105</p>
-          <a href="tel:+12345678900">+91 9922755575</a><br />
-          <a href="mailto:info@lakshyaoverseas.com">wingsinternationaledu@gmail.com</a>
+          <a href="tel:+12345678900">+91-9922755575</a><br />
+          <a href="mailto:info@lakshyaoverseas.com">info@wingsintedu.com</a>
         </div>
         <div className="footer-social">
           <a href="http://facebook.com"><FaFacebook /></a>
