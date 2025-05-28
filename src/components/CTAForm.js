@@ -24,7 +24,7 @@ function CTAForm() {
       return;
     }
 
-    const mailtoLink = `mailto:wingsinternationaledu@gmail.com?subject=Study Inquiry&body=Name: ${name}%0AEmail: ${email}%0AMobile: ${mobile}%0ADestination: ${destination}`;
+    const mailtoLink = `mailto:info@wingsintedu.com?subject=Study Inquiry&body=Name: ${name}%0AEmail: ${email}%0AMobile: ${mobile}%0ADestination: ${destination}`;
     window.location.href = mailtoLink;
   };
 
