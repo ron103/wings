@@ -1,0 +1,978 @@
+{
+    "belarus": {
+      "heroImage": "belarusl.jpg",
+      "title": "Study in Belarus",
+      "introText": "Belarus, a charming Eastern European country, is known for its rich cultural heritage, safe environment, and well-established education system. With English-medium MBBS programs, globally recognized degrees, and affordable tuition, Belarus has become a top destination for aspiring medical students.",
+      "benefitsTitle": "Why Study in Belarus?",
+      "benefits": [
+        "The medium is English that provides ease for students to study.",
+        "There are 5 different faculties: General Medicine, Preventive Medicine, Pediatrics, Dentistry, and Military Medicine.",
+        "High-quality education at affordable fees, much cheaper than in India.",
+        "Adopted practical-based education pedagogy focusing more on labs/tutorials than theory.",
+        "MCI approved universities.",
+        "For direct admission contact Wings International."
+      ],
+      "universitiesTitle": "Universities & Fee Structure",
+      "universitiesSubtitle": "Click on a university to view detailed fee information",
+      "universities": [
+        {
+          "name": "Vitebsk State Medical University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+            { "year": "2nd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "3rd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "4th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "5th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "Full Price", "inr": "INR 1729000.00", "usd": "$24700.00" }
+          ]
+        },
+        {
+          "name": "Belarusian State Medical University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+            { "year": "2nd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "3rd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "4th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "5th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "Full Price", "inr": "INR 1729000.00", "usd": "$24700.00" }
+          ]
+        },
+        {
+          "name": "Gomel State Medical University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 322000.00", "usd": "$4600.00" },
+            { "year": "2nd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "3rd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "4th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "5th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+            { "year": "Full Price", "inr": "INR 1442000.00", "usd": "$20600.00" }
+          ]
+        },
+        {
+          "name": "Grodno State Medical University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+            { "year": "2nd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+            { "year": "3rd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+            { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+            { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+            { "year": "Full Price", "inr": "INR 1155000.00", "usd": "$16500.00" }
+          ]
+        }
+      ]
+    },
+
+
+
+  "russia": {
+    "heroImage": "russial.jpg",
+    "title": "Study in Russia",
+    "introText": "Russia is a top destination for medical education, offering globally recognized degrees at affordable fees. With its world-class universities and advanced healthcare systems, Russia provides students with practical experience and a solid foundation for a medical career.",
+    "benefitsTitle": "Why Study in Russia?",
+    "benefits": [
+      "Globally recognized medical degrees.",
+      "Affordable tuition fees and cost of living.",
+      "English-medium programs available.",
+      "Advanced healthcare and practical-based education system.",
+      "MCI and WHO approved universities.",
+      "For direct admission contact Wings International."
+    ],
+    "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Click on a university to view detailed fee information",
+    "universities": [
+      {
+        "name": "Bashkir State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "2nd Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "3rd Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "4th Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "5th Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "6th Year", "inr": "INR 282800.00", "usd": "$4040.00" },
+          { "year": "Full Price", "inr": "INR 1696800.00", "usd": "$24240.00" }
+        ]
+      },
+      {
+        "name": "Altai State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "2nd Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "3rd Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "4th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "5th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "6th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "Full Price", "inr": "INR 1764000.00", "usd": "$25200.00" }
+        ]
+      },
+      {
+        "name": "Chuvash State University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 249970.00", "usd": "$3571.00" },
+          { "year": "2nd Year", "inr": "INR 300020.00", "usd": "$4286.00" },
+          { "year": "3rd Year", "inr": "INR 300020.00", "usd": "$4286.00" },
+          { "year": "4th Year", "inr": "INR 300020.00", "usd": "$4286.00" },
+          { "year": "5th Year", "inr": "INR 300020.00", "usd": "$4286.00" },
+          { "year": "6th Year", "inr": "INR 300020.00", "usd": "$4286.00" },
+          { "year": "Full Price", "inr": "INR 1750070.00", "usd": "$25001.00" }
+        ]
+      },
+      {
+        "name": "Crimean Federal Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "2nd Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+          { "year": "3rd Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+          { "year": "4th Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+          { "year": "5th Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+          { "year": "6th Year", "inr": "INR 329000.00", "usd": "$4700.00" },
+          { "year": "Full Price", "inr": "INR 1890000.00", "usd": "$27000.00" }
+        ]
+      },
+      {
+        "name": "Far Eastern Federal University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "2nd Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "3rd Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "4th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "5th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "6th Year", "inr": "INR 294000.00", "usd": "$4200.00" },
+          { "year": "Full Price", "inr": "INR 1764000.00", "usd": "$25200.00" }
+        ]
+      },
+      {
+        "name": "Kabardino-Balkarian State University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "2nd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "3rd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "6th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "Full Price", "inr": "INR 1260000.00", "usd": "$18000.00" }
+        ]
+      },
+      {
+        "name": "Kazan State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "2nd Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "3rd Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "4th Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "5th Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "6th Year", "inr": "INR 379750.00", "usd": "$5425.00" },
+          { "year": "Full Price", "inr": "INR 2278500.00", "usd": "$32550.00" }
+        ]
+      },
+      {
+        "name": "Kursk State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "2nd Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "3rd Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "4th Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "5th Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "6th Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "Full Price", "inr": "INR 2604000.00", "usd": "$37200.00" }
+        ]
+      },
+      {
+        "name": "Orel State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 357000.00", "usd": "$5100.00" },
+          { "year": "2nd Year", "inr": "INR 273000.00", "usd": "$3900.00" },
+          { "year": "3rd Year", "inr": "INR 273000.00", "usd": "$3900.00" },
+          { "year": "4th Year", "inr": "INR 231000.00", "usd": "$3300.00" },
+          { "year": "5th Year", "inr": "INR 231000.00", "usd": "$3300.00" },
+          { "year": "6th Year", "inr": "INR 231000.00", "usd": "$3300.00" },
+          { "year": "Full Price", "inr": "INR 1596000.00", "usd": "$22800.00" }
+        ]
+      },
+      {
+        "name": "Orenburg State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "2nd Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "3rd Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "4th Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "5th Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "6th Year", "inr": "INR 371000.00", "usd": "$5300.00" },
+          { "year": "Full Price", "inr": "INR 2226000.00", "usd": "$31800.00" }
+        ]
+      },
+      {
+        "name": "Peoples' Friendship University of Russia",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 840000.00", "usd": "$12000.00" },
+          { "year": "2nd Year", "inr": "INR 665000.00", "usd": "$9500.00" },
+          { "year": "3rd Year", "inr": "INR 665000.00", "usd": "$9500.00" },
+          { "year": "4th Year", "inr": "INR 665000.00", "usd": "$9500.00" },
+          { "year": "5th Year", "inr": "INR 665000.00", "usd": "$9500.00" },
+          { "year": "6th Year", "inr": "INR 665000.00", "usd": "$9500.00" },
+          { "year": "Full Price", "inr": "INR 4165000.00", "usd": "$59500.00" }
+        ]
+      },
+      {
+        "name": "Perm State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "2nd Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "3rd Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "4th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "5th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "6th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+          { "year": "Full Price", "inr": "INR 2310000.00", "usd": "$33000.00" }
+        ]
+      },
+      {
+        "name": "Pirogov Russian National Research Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "4th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "5th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "6th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "Full Price", "inr": "INR 2240000.00", "usd": "$32000.00" }
+        ]
+      },
+      {
+        "name": "Siberian State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+          { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "4th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "5th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "6th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "Full Price", "inr": "INR 2170000.00", "usd": "$31000.00" }
+        ]
+      },
+      {
+        "name": "Tver State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "2nd Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "3rd Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "4th Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "5th Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "6th Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+          { "year": "Full Price", "inr": "INR 2940000.00", "usd": "$42000.00" }
+        ]
+      },
+      {
+        "name": "Ulyanovsk State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "2nd Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "3rd Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "4th Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "5th Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "6th Year", "inr": "INR 245000.00", "usd": "$3500.00" },
+          { "year": "Full Price", "inr": "INR 1470000.00", "usd": "$21000.00" }
+        ]
+      }
+    ]
+  },
+  "kazakh": {
+    "heroImage": "kazakhl.jpg",
+    "title": "Study in Kazakhstan",
+    "introText": "Kazakhstan, a dynamic Central Asian country, is renowned for its modern infrastructure, cultural diversity, and commitment to quality education. With affordable tuition fees, globally recognized MBBS programs, and a focus on practical learning, Kazakhstan has become a preferred destination for aspiring medical students worldwide.",
+    "benefitsTitle": "Why Study in Kazakhstan?",
+    "benefits": [
+      "Affordable tuition fees and cost of living for international students.",
+      "English-medium MBBS programs for global accessibility.",
+      "Universities recognized by WHO, MCI, and other global organizations.",
+      "Focus on practical-based learning with well-equipped facilities.",
+      "Safe and friendly environment for students.",
+      "For direct admission, contact Wings International."
+    ],
+    "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Click on a university to view detailed fee information",
+    "universities": [
+      {
+        "name": "South Kazakh State Medical Academy",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 276500.00", "usd": "$3950.00" },
+          { "year": "2nd Year", "inr": "INR 276500.00", "usd": "$3950.00" },
+          { "year": "3rd Year", "inr": "INR 276500.00", "usd": "$3950.00" },
+          { "year": "4th Year", "inr": "INR 276500.00", "usd": "$3950.00" },
+          { "year": "5th Year", "inr": "INR 276500.00", "usd": "$3950.00" },
+          { "year": "Full Price", "inr": "INR 1382500.00", "usd": "$19750.00" }
+        ]
+      },
+      {
+        "name": "University of International Business",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      },
+      {
+        "name": "Al-Farabi Kazakh National University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 293300.00", "usd": "$4190.00" },
+          { "year": "2nd Year", "inr": "INR 293300.00", "usd": "$4190.00" },
+          { "year": "3rd Year", "inr": "INR 293300.00", "usd": "$4190.00" },
+          { "year": "4th Year", "inr": "INR 293300.00", "usd": "$4190.00" },
+          { "year": "5th Year", "inr": "INR 293300.00", "usd": "$4190.00" },
+          { "year": "Full Price", "inr": "INR 1466500.00", "usd": "$20950.00" }
+        ]
+      },
+      {
+        "name": "Astana Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 322000.00", "usd": "$4600.00" },
+          { "year": "2nd Year", "inr": "INR 259000.00", "usd": "$3700.00" },
+          { "year": "3rd Year", "inr": "INR 259000.00", "usd": "$3700.00" },
+          { "year": "4th Year", "inr": "INR 259000.00", "usd": "$3700.00" },
+          { "year": "5th Year", "inr": "INR 259000.00", "usd": "$3700.00" },
+          { "year": "Full Price", "inr": "INR 1358000.00", "usd": "$19400.00" }
+        ]
+      },
+      {
+        "name": "Kazakh National Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "2nd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "3rd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "4th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "5th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "Full Price", "inr": "INR 1575000.00", "usd": "$22500.00" }
+        ]
+      },
+      {
+        "name": "Kokshetau State University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 287000.00", "usd": "$4100.00" },
+          { "year": "2nd Year", "inr": "INR 287000.00", "usd": "$4100.00" },
+          { "year": "3rd Year", "inr": "INR 287000.00", "usd": "$4100.00" },
+          { "year": "4th Year", "inr": "INR 287000.00", "usd": "$4100.00" },
+          { "year": "5th Year", "inr": "INR 287000.00", "usd": "$4100.00" },
+          { "year": "Full Price", "inr": "INR 1435000.00", "usd": "$20500.00" }
+        ]
+      }
+    ]
+  },
+
+
+  "kyrg": {
+    "heroImage": "kyrgl.jpg",
+    "title": "Study in Kyrgyzstan",
+    "introText": "Kyrgyzstan, a beautiful Central Asian country, offers a blend of cultural richness, affordability, and high-quality education. Known for its welcoming environment and globally recognized MBBS programs, Kyrgyzstan has become a top destination for medical aspirants from all over the world.",
+    "benefitsTitle": "Why Study in Kyrgyzstan?",
+    "benefits": [
+      "Affordable tuition fees and cost of living, making it accessible for international students.",
+      "English-medium MBBS programs, ensuring ease of learning for students worldwide.",
+      "Universities recognized by WHO, MCI, and other global organizations.",
+      "Well-equipped laboratories and focus on practical-based education.",
+      "Safe and peaceful environment for international students.",
+      "For direct admission, contact Wings International."
+    ],
+    "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Click on a university to view detailed fee information",
+    "universities": [
+      {
+        "name": "Kyrgyz State Medical Academy",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "2nd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "3rd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "4th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "5th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+          { "year": "Full Price", "inr": "INR 1575000.00", "usd": "$22500.00" }
+        ]
+      },
+      {
+        "name": "MA School of Medicine",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 700000.00", "usd": "$10000.00" },
+          { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+          { "year": "4th Year", "inr": "INR 210000.00", "usd": "$5000.00" },
+          { "year": "5th Year", "inr": "INR 140000.00", "usd": "$2000.00" },
+          { "year": "Full Price", "inr": "INR 1750000.00", "usd": "$25000.00" }
+        ]
+      },
+      {
+        "name": "Asian Medical Institute",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "2nd Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "3rd Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "4th Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "5th Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "Full Price", "inr": "INR 1120000.00", "usd": "$16000.00" }
+        ]
+      },
+      {
+        "name": "Jalalabad State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 200900.00", "usd": "$2870.00" },
+          { "year": "2nd Year", "inr": "INR 200900.00", "usd": "$2870.00" },
+          { "year": "3rd Year", "inr": "INR 200900.00", "usd": "$2870.00" },
+          { "year": "4th Year", "inr": "INR 200900.00", "usd": "$2870.00" },
+          { "year": "5th Year", "inr": "INR 200900.00", "usd": "$2870.00" },
+          { "year": "Full Price", "inr": "INR 1004500.00", "usd": "$14350.00" }
+        ]
+      },
+      {
+        "name": "Osh State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "2nd Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "3rd Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "4th Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "5th Year", "inr": "INR 224000.00", "usd": "$3200.00" },
+          { "year": "Full Price", "inr": "INR 1120000.00", "usd": "$16000.00" }
+        ]
+      }
+    ]
+  },
+
+
+"georgia": {
+  "heroImage": "georgial.jpg",
+  "title": "Study in Georgia",
+  "introText": "Georgia, located at the crossroads of Europe and Asia, has emerged as a sought-after destination for medical education. With high-quality MBBS programs, affordable fees, and English as the medium of instruction, Georgia is the ideal choice for aspiring doctors worldwide.",
+  "benefitsTitle": "Why Study in Georgia?",
+  "benefits": [
+    "Affordable MBBS programs with globally recognized degrees.",
+    "English-medium education for international accessibility.",
+    "Focus on practical and clinical-based learning.",
+    "Safe and welcoming environment for students.",
+    "Recognized by WHO, MCI, and other global organizations.",
+    "For direct admission, contact Wings International."
+  ],
+  "universitiesTitle": "Universities & Fee Structure",
+  "universitiesSubtitle": "Click on a university to view detailed fee information",
+  "universities": [
+    {
+      "name": "New Vision University",
+      "fees": [
+        { "year": "1st Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+        { "year": "2nd Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+        { "year": "3rd Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+        { "year": "4th Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+        { "year": "5th Year", "inr": "INR 140000.00", "usd": "$2000.00" },
+        { "year": "6th Year", "inr": "INR 140000.00", "usd": "$2000.00" },
+        { "year": "Full Price", "inr": "INR 2590000.00", "usd": "$37000.00" }
+      ]
+    },
+    {
+      "name": "Tbilisi State Medical University",
+      "fees": [
+        { "year": "1st Year", "inr": "INR 490000.00", "usd": "$7000.00" },
+        { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "4th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "5th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "6th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "Full Price", "inr": "INR 2240000.00", "usd": "$32000.00" }
+      ]
+    },
+    {
+      "name": "Batumi Shota Rustaveli State University",
+      "fees": [
+        { "year": "1st Year", "inr": "INR 630000.00", "usd": "$9000.00" },
+        { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "4th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "5th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "6th Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+        { "year": "Full Price", "inr": "INR 2380000.00", "usd": "$34000.00" }
+      ]
+    },
+    {
+      "name": "Caucasus International University",
+      "fees": [
+        { "year": "Year", "inr": "", "usd": "" }
+      ]
+    },
+    {
+      "name": "East European University",
+      "fees": [
+        { "year": "1st Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "2nd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+        { "year": "3rd Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+        { "year": "4th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+        { "year": "5th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+        { "year": "6th Year", "inr": "INR 315000.00", "usd": "$4500.00" },
+        { "year": "Full Price", "inr": "INR 1902040.00", "usd": "$27172.00" }
+      ]
+    },
+    {
+      "name": "European University",
+      "fees": [
+        { "year": "Year", "inr": "", "usd": "" }
+      ]
+    },
+    {
+      "name": "GeoMedi Medical University",
+      "fees": [
+        { "year": "1st Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "2nd Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "3rd Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "4th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "5th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "6th Year", "inr": "INR 385000.00", "usd": "$5500.00" },
+        { "year": "Full Price", "inr": "INR 2310000.00", "usd": "$33000.00" }
+      ]
+    }
+  ]
+},
+
+
+    "philippines": {
+      "heroImage": "philippinesl.jpg",
+      "title": "Study in the Philippines",
+      "introText": "The Philippines is a premier destination for medical education, offering world-class MBBS programs at affordable costs. With English as the primary language of instruction, a rich cultural heritage, and a strong focus on practical training, the Philippines provides an ideal environment for aspiring medical professionals.",
+      "benefitsTitle": "Why Study in the Philippines?",
+      "benefits": [
+        "Affordable tuition fees and cost of living compared to other countries.",
+        "English-medium education for international accessibility.",
+        "Medical universities recognized by WHO, MCI, and other global organizations.",
+        "Strong emphasis on clinical exposure and practical-based education.",
+        "Safe and hospitable environment with a multicultural experience.",
+        "For direct admission, contact Wings International."
+      ],
+      "universitiesTitle": "Universities & Fee Structure",
+      "universitiesSubtitle": "Click on a university to view detailed fee information",
+      "universities": [
+        {
+          "name": "AMA School of Medicine",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 700000.00", "usd": "$10000.00" },
+            { "year": "2nd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+            { "year": "3rd Year", "inr": "INR 350000.00", "usd": "$5000.00" },
+            { "year": "4th Year", "inr": "INR 210000.00", "usd": "$5000.00" },
+            { "year": "5th Year", "inr": "INR 140000.00", "usd": "$2000.00" },
+            { "year": "Full Price", "inr": "INR 1750000.00", "usd": "$25000.00" }
+          ]
+        },
+        {
+          "name": "Davao Medical School Foundation",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 357000.00", "usd": "$5100.00" },
+            { "year": "2nd Year", "inr": "INR 420000.00", "usd": "$6000.00" },
+            { "year": "3rd Year", "inr": "INR 357000.00", "usd": "$5100.00" },
+            { "year": "4th Year", "inr": "INR 357000.00", "usd": "$5100.00" },
+            { "year": "5th Year", "inr": "INR 357000.00", "usd": "$5100.00" },
+            { "year": "Full Price", "inr": "INR 2084250.00", "usd": "$29775.00" }
+          ]
+        },
+        {
+          "name": "Liceo College of Medicine",
+          "fees": [
+            { "year": "1st Year", "inr": "", "usd": "" },
+            { "year": "2nd Year", "inr": "", "usd": "" },
+            { "year": "3rd Year", "inr": "", "usd": "" },
+            { "year": "4th Year", "inr": "", "usd": "" },
+            { "year": "5th Year", "inr": "", "usd": "" },
+            { "year": "Full Price", "inr": "", "usd": "" }
+          ]
+        },
+        {
+          "name": "Our Lady of Fatima University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 938000.00", "usd": "$13400.00" },
+            { "year": "2nd Year", "inr": "INR 448000.00", "usd": "$6400.00" },
+            { "year": "3rd Year", "inr": "INR 448000.00", "usd": "$6400.00" },
+            { "year": "4th Year", "inr": "INR 448000.00", "usd": "$6400.00" },
+            { "year": "5th Year", "inr": "INR 448000.00", "usd": "$6400.00" },
+            { "year": "Full Price", "inr": "INR 2730000.00", "usd": "$39000.00" }
+          ]
+        },
+        {
+          "name": "Southwestern University",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 835800.00", "usd": "$11940.00" },
+            { "year": "2nd Year", "inr": "INR 480900.00", "usd": "$6870.00" },
+            { "year": "3rd Year", "inr": "INR 292600.00", "usd": "$4180.00" },
+            { "year": "4th Year", "inr": "INR 292600.00", "usd": "$4180.00" },
+            { "year": "5th Year", "inr": "INR 292600.00", "usd": "$4180.00" },
+            { "year": "Full Price", "inr": "INR 2194500.00", "usd": "$31350.00" }
+          ]
+        },
+        {
+          "name": "University of Perpetual",
+          "fees": [
+            { "year": "1st Year", "inr": "", "usd": "" },
+            { "year": "2nd Year", "inr": "", "usd": "" },
+            { "year": "3rd Year", "inr": "", "usd": "" },
+            { "year": "4th Year", "inr": "", "usd": "" },
+            { "year": "5th Year", "inr": "", "usd": "" },
+            { "year": "Full Price", "inr": "", "usd": "" }
+          ]
+        },
+        {
+          "name": "UV Gullas College of Medicine",
+          "fees": [
+            { "year": "1st Year", "inr": "INR 581000.00", "usd": "$8300.00" },
+            { "year": "2nd Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+            { "year": "3rd Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+            { "year": "4th Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+            { "year": "5th Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+            { "year": "Full Price", "inr": "INR 1645000.00", "usd": "$23500.00" }
+          ]
+        }
+      ]
+    },
+    
+
+      "armenia": {
+        "heroImage": "armenial.jpg",
+        "title": "Study in Armenia",
+        "introText": "Armenia is an emerging education hub offering affordable, high-quality medical and technical education. Known for its safe environment and welcoming culture, Armenia provides excellent opportunities for aspiring students.",
+        "benefitsTitle": "Why Study in Armenia?",
+        "benefits": [
+          "Affordable tuition fees compared to many other countries.",
+          "Safe and welcoming environment for international students.",
+          "Globally recognized medical and technical education.",
+          "Emphasis on practical and clinical training in healthcare programs.",
+          "Opportunity to explore Armenia's rich culture and heritage."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      
+      {
+        "name": "St. Tereza Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 266000.00", "usd": "$3800.00" },
+          { "year": "2nd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "3rd Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "4th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "5th Year", "inr": "INR 280000.00", "usd": "$4000.00" },
+          { "year": "Full Price", "inr": "INR 1386000.00", "usd": "$19800.00" }
+        ]
+      },
+      {
+        "name": "Yerevan State Medical University",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "2nd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "3rd Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "4th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "5th Year", "inr": "INR 210000.00", "usd": "$3000.00" },
+          { "year": "Full Price", "inr": "INR 1050000.00", "usd": "$15000.00" }
+        ]
+      }
+
+    ]
+      },
+      "uk": {
+        "heroImage": "ukl.jpg",
+        "title": "Study in the United Kingdom",
+        "introText": "The United Kingdom is a global leader in higher education, offering diverse programs, world-renowned universities, and an enriching cultural experience. Whether pursuing MS or MBA, the UK provides students with endless opportunities for academic and personal growth.",
+        "benefitsTitle": "Why Study in the United Kingdom?",
+        "benefits": [
+          "Access to globally recognized universities and high-quality education.",
+          "Strong focus on research and innovation across multiple fields.",
+          "Opportunities for scholarships and work-study programs.",
+          "Diverse cultural exposure and networking with international peers.",
+          "English is the primary medium of instruction for ease of study."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+
+      },
+      "india": {
+        "heroImage": "indial.jpg",
+        "title": "Study in India",
+        "introText": "India offers a diverse range of educational opportunities in fields such as MBBS, BAMS, and Dental. Known for its affordability and quality education, India is a preferred choice for students who wish to pursue their studies in their home country.",
+        "benefitsTitle": "Education in India",
+        "benefits": [
+          "Affordable education with globally recognized degrees.",
+          "Diverse range of programs including MBBS, BAMS, and Dental.",
+          "Opportunities to study close to home while accessing world-class facilities.",
+          "Cultural richness and traditional values integrated into education.",
+          "Strong emphasis on practical and theoretical knowledge."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "bosnia": {
+        "heroImage": "bosnial.jpg",
+        "title": "Study in Bosnia & Herzegovina",
+        "introText": "Bosnia & Herzegovina is a hidden gem for students seeking quality education at an affordable cost. With a focus on practical learning and international collaborations, it has become a preferred choice for medical students.",
+        "benefitsTitle": "Why Study in Bosnia?",
+        "benefits": [
+          "Affordable education with excellent infrastructure.",
+          "Emphasis on practical and hands-on learning.",
+          "Growing popularity among international medical students.",
+          "Safe and culturally rich environment.",
+          "Opportunities to network with students from diverse backgrounds."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "University of East Sarajevo",
+        "fees": [
+          { "year": "1st Year", "inr": "INR 880000.00", "usd": "$9815.00" },
+          { "year": "2nd Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "3rd Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "4th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "5th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "6th Year", "inr": "INR 600000.00", "usd": "$6600.00" },
+          { "year": "Full Price", "inr": "INR 3880000.00", "usd": "$42815" }
+        ]
+      }
+    ]
+      },
+      "usa": {
+        "heroImage": "usal.jpg",
+        "title": "Study in the United States of America",
+        "introText": "The USA is home to some of the world's top universities, offering exceptional opportunities for MS, MBA, and other advanced degrees. With its emphasis on research, innovation, and cultural diversity, the USA remains a top destination for students worldwide.",
+        "benefitsTitle": "Why Study in the United States?",
+        "benefits": [
+          "Access to the best universities with cutting-edge facilities.",
+          "Emphasis on research, innovation, and experiential learning.",
+          "Cultural diversity and global networking opportunities.",
+          "Wide range of programs including MS and MBA.",
+          "Opportunities for internships and post-study work visas."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "canada": {
+        "heroImage": "canadal.jpg",
+        "title": "Study in Canada",
+        "introText": "Canada is a popular destination for international students due to its affordable tuition, welcoming atmosphere, and quality education. Known for its focus on research and innovation, Canada offers a wide range of programs to suit every student’s aspirations.",
+        "benefitsTitle": "Why Study in Canada?",
+        "benefits": [
+          "Affordable tuition fees with high-quality education.",
+          "Welcoming and safe environment for international students.",
+          "Opportunities for post-graduation work and permanent residency.",
+          "Focus on research and practical learning in all fields.",
+          "Home to some of the world's top-ranked universities."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "australia": {
+        "heroImage": "australial.jpg",
+        "title": "Study in Australia",
+        "introText": "Australia is a leader in higher education, offering globally recognized degrees and diverse programs. With a focus on MS, MBA, and other advanced courses, Australia is an attractive choice for international students.",
+        "benefitsTitle": "Why Study in Australia?",
+        "benefits": [
+          "World-class universities with a wide range of programs.",
+          "Globally recognized degrees in fields like MS and MBA.",
+          "Opportunities for internships and industry exposure.",
+          "Vibrant multicultural environment and safe cities.",
+          "Opportunities for post-study work visas and permanent residency."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "ireland": {
+        "heroImage": "irelandl.jpg",
+        "title": "Study in Ireland",
+        "introText": "Ireland offers a blend of traditional and modern education, making it a great destination for higher studies. Known for its high-quality education and research-oriented programs, Ireland is an excellent choice for international students.",
+        "benefitsTitle": "Why Study in Ireland?",
+        "benefits": [
+          "Affordable tuition fees with excellent academic standards.",
+          "Focus on research and innovation in education.",
+          "Opportunities to explore rich Irish culture and heritage.",
+          "Growing popularity for programs in MS, MBA, and healthcare.",
+          "Safe and welcoming environment for international students."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "italy": {
+        "heroImage": "italyl.jpg",
+        "title": "Study in Italy",
+        "introText": "Italy offers world-class education with numerous tuition-free programs, especially for international students. Known for its rich cultural heritage and academic excellence, Italy is a preferred destination for students pursuing higher studies.",
+        "benefitsTitle": "Why Study in Italy?",
+        "benefits": [
+          "Tuition-free programs in public universities for international students.",
+          "Rich cultural heritage and historical landmarks.",
+          "Globally recognized degrees in diverse fields.",
+          "Affordable living costs and opportunities for scholarships.",
+          "Opportunities to explore Europe while studying."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "germany": {
+        "heroImage": "germanyl.jpg",
+        "title": "Study in Germany",
+        "introText": "Germany is a global leader in engineering, healthcare, and nursing education. With its high-quality education and affordable tuition, Germany is a top destination for students seeking MS or nursing programs.",
+        "benefitsTitle": "Why Study in Germany?",
+        "benefits": [
+          "Tuition-free education in public universities.",
+          "High demand for nursing programs and technical degrees.",
+          "Focus on research and innovation in all fields.",
+          "Opportunities to explore Europe while studying.",
+          "Safe environment with strong support for international students."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+    "universitiesSubtitle": "Contact us for more information.",
+    "universities": [
+      {
+        "name": "",
+        "fees": [
+          { "year": "1st Year", "inr": "", "usd": "" },
+          { "year": "2nd Year", "inr": "", "usd": "" },
+          { "year": "3rd Year", "inr": "", "usd": "" },
+          { "year": "4th Year", "inr": "", "usd": "" },
+          { "year": "5th Year", "inr": "", "usd": "" },
+          { "year": "Full Price", "inr": "", "usd": "" }
+        ]
+      }
+    ]
+      },
+      "japan": {
+        "heroImage": "japanl.jpg",
+        "title": "Study in Japan",
+        "introText": "Japan is renowned for its advanced technology, rich cultural heritage, and world-class education. With its focus on research, innovation, and a thriving job market, Japan offers excellent opportunities for international students.",
+        "benefitsTitle": "Why Study in Japan?",
+        "benefits": [
+          "High-quality education with a focus on technology and innovation.",
+          "Opportunities to learn and work in a thriving economy.",
+          "Rich cultural experience and globally recognized degrees.",
+          "Scholarships available for international students.",
+          "Safe and welcoming environment with modern infrastructure."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+        "universitiesSubtitle": "Contact us for more information.",
+        "universities": [
+          {
+            "name": "",
+            "fees": [
+              { "year": "1st Year", "inr": "", "usd": "" },
+              { "year": "2nd Year", "inr": "", "usd": "" },
+              { "year": "3rd Year", "inr": "", "usd": "" },
+              { "year": "4th Year", "inr": "", "usd": "" },
+              { "year": "5th Year", "inr": "", "usd": "" },
+              { "year": "Full Price", "inr": "", "usd": "" }
+            ]
+          }
+        ]
+      },
+      "korea": {
+        "heroImage": "koreal.jpg",
+        "title": "Study in South Korea",
+        "introText": "South Korea is a leader in technology, innovation, and modern education. Known for its strong academic reputation and career opportunities, South Korea provides an ideal environment for international students.",
+        "benefitsTitle": "Why Study in South Korea?",
+        "benefits": [
+          "Globally recognized universities with modern facilities.",
+          "Focus on technology, healthcare, and management education.",
+          "Scholarships available for international students.",
+          "Dynamic and vibrant cultural experience.",
+          "Strong job market and career opportunities post-graduation."
+        ],
+        "universitiesTitle": "Universities & Fee Structure",
+        "universitiesSubtitle": "Contact us for more information.",
+        "universities": [
+          {
+            "name": "",
+            "fees": [
+              { "year": "1st Year", "inr": "", "usd": "" },
+              { "year": "2nd Year", "inr": "", "usd": "" },
+              { "year": "3rd Year", "inr": "", "usd": "" },
+              { "year": "4th Year", "inr": "", "usd": "" },
+              { "year": "5th Year", "inr": "", "usd": "" },
+              { "year": "Full Price", "inr": "", "usd": "" }
+            ]
+          }
+        ]
+      }
+    }
