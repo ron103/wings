@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
 
+const countersData = [
+  { label: 'Students Guided', end: 5000 },
+  { label: 'Universities', end: 150 },
+  { label: 'Countries', end: 30 },
+];
+
 function AnimatedCounters() {
-  const countersData = [
-    { label: 'Students Guided', end: 5000 },
-    { label: 'Universities', end: 150 },
-    { label: 'Countries', end: 30 },
-  ];
 
   const [counts, setCounts] = useState(Array(countersData.length).fill(0));
 

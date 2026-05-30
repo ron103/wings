@@ -6,7 +6,6 @@ import HeroBanner from './components/HeroBanner';
 import PartnerLogosSlider from './components/PartnerLogosSlider';
 import StudyDestinations from './components/StudyDestinations';
 import CTAForm from './components/CTAForm';
-import Testimonials from './components/Testimonials';
 import AnimatedCounters from './components/AnimatedCounters';
 import Footer from './components/Footer';
 import AboutUsPage from './components/AboutUsPage';
